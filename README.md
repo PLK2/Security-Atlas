@@ -1,2 +1,2 @@
-# Network Atlas
+# Knowledge Graph Threat Modeling
 Here we introduce a "Network Atlas": a method for analyzing and stress-testing a network of nodes (their interrelationships and interdependencies) using switchable and generational attributes. It is a graph of interactive nodes, allowing users to audit the network under user-defined stressors and circumstances. This is a non-technical guide in need of technicians to bring the tool to life.
