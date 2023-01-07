@@ -7,7 +7,7 @@
 There is: threat modeling using a knowledge graph. It is a method for analyzing and stress-testing a network of nodes (their interrelationships and interdependencies) using switchable and generational attributes. It is a graph of interactive nodes, allowing users to audit the network under user-defined stressors and circumstances. It won't tell you exactly what vulnerabilities are in your network; it won't tell you how to fix it; it won't scan your network and develop an automated graph for you. It is a hands-on, bare-bones assessment tool you build yourself. It is an x-ray view of that house of cards you just built for yourself (whether that's a home server, a multi-sig bitcoin wallet, or any other network of objects that rely or relate to one another). It helps you to see relationships that otherwise would remain hidden behind the complexity.
 
 <p align="center">
-<img src="_utilities/case-study-bitcoin-multisig.jpg" alt="map" title="map" />
+<img src="_utilities/case-study-bitcoin-multisig-1.jpg" alt="map" title="map" />
 </p>
 
 Note that this is a non-technical guide introducing the concept of threat modeling using a knowledge graph; it is in need of technicians to bring this tool to life. If you find this useful, please help!
