@@ -10,3 +10,9 @@ Note that this is a non-technical guide introducing the concept of threat modeli
 
 ### Case Studies
 - [Bitcoin Single-Signature Wallet](Case-Study-Bitcoin-Singlesig.md)
+
+---
+#### Keywords to use for later, maybe
+- simulator
+- prototype
+- atlas
