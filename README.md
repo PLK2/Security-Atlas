@@ -20,3 +20,5 @@ Note that this is a non-technical guide introducing the concept of threat modeli
 - simulator
 - prototype
 - atlas
+- semantic network
+- frame network
