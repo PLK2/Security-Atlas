@@ -9,4 +9,4 @@ Here we introduce the concept of threat modeling using a "Knowledge Graph". It i
 Note that this is a non-technical guide introducing the concept of threat modeling using a knowledge graph; it is in need of technicians to bring this tool to life. If you find this useful, please help!
 
 ### Case Studies
-- [Bitcoin Single-Signature Wallet] (Case-Study-Bitcoin-Singlesig)
+- [Bitcoin Single-Signature Wallet] (Case-Study-Bitcoin-Singlesig.md)
