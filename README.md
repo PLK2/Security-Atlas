@@ -16,7 +16,7 @@ To get started, I've developed a mock-up of the process using Obsidian, a progra
 
 ### Case Studies
 - [Bitcoin Single-Signature Wallet](Case-Study-Bitcoin-Singlesig.md)
-- Bitcoin Multi-Sig Wallet
+- [Bitcoin Multi-Sig Wallet](Case-Study-Bitcoin-Multisig.md)
 - Personal Homes Server and Network
 
 ---
