@@ -1,0 +1,2 @@
+## Attributes
+type: #people

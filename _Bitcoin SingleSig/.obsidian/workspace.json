@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "c2f47ec873d6f7f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "409f8411a4d50eab",
+        "type": "tabs",
+        "dimension": 24.20520231213873,
+        "children": [
+          {
+            "id": "84a3e67956fe4d4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devices/Hardware Wallet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e2cd7538bf706620",
+        "type": "tabs",
+        "dimension": 75.79479768786128,
+        "children": [
+          {
+            "id": "af8a03eca701f18b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "adb29ac32baecc9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bd26b0573379b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c381e61c18b8ae7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80875e0e04052b1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#home",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4b1bf81a4ed1169",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "777b3824998707b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f2eca4bdf91661c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10a8969486b51a18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb2f2798e1863a5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6432e90d6b4469ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2cb080e34e0c6992",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "af8a03eca701f18b",
+  "lastOpenFiles": [
+    "Devices/Hardware Wallet.md",
+    "Passwords PINs and Seeds/Hardware-Wallet-PIN.md",
+    "Backups/Seed Backup Sticky Note.md",
+    "Passwords PINs and Seeds/Seed.md",
+    "Wallets/Wallet-SingleSig.md",
+    "template/Template.md",
+    "Devices/Sticky Note.md",
+    "Devices/Laptop.md",
+    "Passwords PINs and Seeds/Password-File.md",
+    "Master-Password.md"
+  ]
+}
