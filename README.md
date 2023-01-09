@@ -10,11 +10,11 @@ There is: threat modeling using a knowledge graph, **a method for analyzing and 
 <img src="_utilities/case-study-bitcoin-multisig-1.jpg" alt="map" title="map" />
 </p>
 
-Note that this is a non-technical guide introducing the concept of threat modeling using a knowledge graph; it is in need of technicians to bring this tool to life. If you find this useful, please help!
+
 
 To get started, I've developed a mock-up of the process using [Obsidian](https://obsidian.md/), a program that allows you to build a personal knowledge base with text files. You don't have to use Obsidian--you could use any number of similar programs (Zettlr, Cosma, LogSeq, etc). 
 
-My hope is that someone with coding skills will find this idea good enough to build an application.
+Following is a non-technical introduction to the concept of threat modeling using a knowledge graph. Ultimately, this project needs someone with coding knowhow to bring the tool to life.
 
 ### Read On
 - [01 Initial Setup](01-Initial-Setup.md)
