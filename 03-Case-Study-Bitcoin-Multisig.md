@@ -21,3 +21,5 @@ Some may find a security risk in a multisig setup if a quorum of devices come fr
 <p align="center">
 <img src="_utilities/case-study-bitcoin-multisig-4.jpg" alt="map" title="map" />
 </p>
+
+Going through this exercise will help you gain a much better understanding of the complete picture, of what happens behind the scenes (ie, out of reach of our limited brains). There is a balance between simplicity and threat avoidance: the nodes/connections/graph is simplified if everything is in one location, you choose only one manufacturer, you have no backups to keep up with, etc, but by doing those things you put your whole system at risk. By geographically separating objects, using multiple devices, making multiple backups, you minimize catastrophic failure, but in the process you've created a spider web of relationships. A knowledge graph helps you read and manage that web.
