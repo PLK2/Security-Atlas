@@ -7,9 +7,7 @@ A network is made up of objects that relate to one another; when shown visually,
 
 The first step in this tutorial is to start with a rough sketch or outline of the network you want to study.
 
-
-
-Now let's create our first object. In our system, each object will be defined by its own, single text file. All we'll do is create a new text file with a filename  being the name of our object; then we'll include a heading in the file with the name of our object. In this case, "Sticky-Note-1":
+Let's create our first object. In our system, each object will be defined by its own, single text file. All we'll do is create a new text file with a filename  being the name of our object; then we'll include a heading in the file with the name of our object. In this case, "Sticky-Note-1":
 
 ```
 Sticky-Note-1.txt
