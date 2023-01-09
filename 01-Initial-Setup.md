@@ -31,11 +31,13 @@ Bob.txt
 
 # Bob
 ```
+Note that Bob owns himself--he is at the top of our graph hierarchy. Also note that the brackets around `[[Bob.txt]]` links `Sticky-Note-1.txt` to `Bob.txt` within Obsidian (if you're following along, it may be different in your text editor).
+
 
 ## Attributes
-Each object may be ascribed any number of **Attributes**. These attributes are the threats that you believe to be worthy of analysis; they could pertain to theft, forgetfulness, natural disaster, etc. You could organize them however you'd like: e.g., by location, type, make, model, year, age, etc. They can be as specific or as general as you'd like.
+Each object may be ascribed any number of **Attributes**. These attributes are the threats that you believe to be worthy of analysis; they could pertain to theft, forgetfulness, natural disaster, etc. You could organize them however you'd like: e.g., by location, type, make, model, year, age, etc. They can be as specific or as general as you'd like. For a text editor like Obsidian, these attributes are handled with hashtags.
 
-In this case, let's define the following for our sticky note:
+Let's define the following for our sticky note:
 
 
 ```
