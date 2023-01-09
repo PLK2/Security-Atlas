@@ -18,7 +18,7 @@ To get started, I've developed a mock-up of the process using Obsidian, a progra
 - [01 Introduction](01-Introduction.md)
 - [02 Bitcoin Single-Signature Wallet](02-Case-Study-Bitcoin-Singlesig.md)
 - [03 Bitcoin Multi-Sig Wallet](03-Case-Study-Bitcoin-Multisig.md)
-- 04 Personal Homs Server and Network
+- 04 Personal Home Server and Network
 
 ---
 **Keywords to use for later, maybe:**
