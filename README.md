@@ -12,7 +12,7 @@ There is: threat modeling using a knowledge graph, **a method for analyzing and 
 
 Note that this is a non-technical guide introducing the concept of threat modeling using a knowledge graph; it is in need of technicians to bring this tool to life. If you find this useful, please help!
 
-To get started, I've developed a mock-up of the process using Obsidian, a program that allows you to build a personal knowledge base using nothing but text files. You don't have to use Obsidian--you could use any number of similar programs. My hope is that someone with coding skills will find this useful enough to build an actual application.
+To get started, I've developed a mock-up of the process using [Obsidian](https://obsidian.md/), a program that allows you to build a personal knowledge base using nothing but text files. You don't have to use Obsidian--you could use any number of similar programs. My hope is that someone with coding skills will find this useful enough to build an actual application.
 
 ### Read On
 - [01 Initial Setup](01-Initial-Setup.md)
