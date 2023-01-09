@@ -1,6 +1,9 @@
 # Case Study: Bitcoin Key Management for a Multi-Signature Wallet
 
 Things get immensely more complex when multiple devices and signatures. Below is a basic two-of-three multisig wallet; a glance of the knowlege graph reveals a number of hidden corners to analyze.
+
+You can download the text files I used for this here: [_case-studies/bitcoin-multisig](_case-studies/bitcoin-multisig).
+
 <p align="center">
 <img src="_utilities/case-study-bitcoin-multisig-1.jpg" alt="map" title="map" />
 </p>
