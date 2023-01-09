@@ -15,7 +15,7 @@ Note that this is a non-technical guide introducing the concept of threat modeli
 To get started, I've developed a mock-up of the process using Obsidian, a program that allows you to build a personal knowledge base using nothing but text files. You don't have to use Obsidian--you could use any number of similar programs. My hope is that someone with coding skills will find this useful enough to build an actual application.
 
 ### Read On
-- [01 Introduction](01-Introduction.md)
+- [01 Initial Setup](01-Initial-Setup.md)
 - [02 Bitcoin Single-Signature Wallet](02-Case-Study-Bitcoin-Singlesig.md)
 - [03 Bitcoin Multi-Sig Wallet](03-Case-Study-Bitcoin-Multisig.md)
 - 04 Personal Home Server and Network
