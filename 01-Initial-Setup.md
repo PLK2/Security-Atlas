@@ -63,4 +63,6 @@ Now comes the fun part: being able to visually see the linkages of ownership and
 
 See case studies below:
 
+- [02 Bitcoin Single-Signature Wallet](02-Case-Study-Bitcoin-Singlesig.md)
+- [03 Bitcoin Multi-Sig Wallet](03-Case-Study-Bitcoin-Multisig.md)
 
