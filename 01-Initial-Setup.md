@@ -46,7 +46,9 @@ Sticky-Note-1.txt
 - could be destroyed by: #water, #fire
 ```
 
-Objects that are downstream from an owner receive all the attributes of that owner.
+Objects that are downstream from an owner inherit all the attributes of that owner. This is something I'm unable to try out as my text editor (Obsidian) doesn't have this feature. However, it would be extremely useful to be able to visualize this as it would allow you to see the "butterfly effect" playout: could a flood at Bob's house result in the total loss of your bitcoin?...
+
+## Graph View
 
 Colors = type
 
