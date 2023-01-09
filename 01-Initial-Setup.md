@@ -23,7 +23,7 @@ Owners:
 - [[Bob.txt]]
 ```
 ```
-Bob.md
+Bob.txt
 
 # Bob
 ```
