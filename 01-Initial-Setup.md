@@ -1,6 +1,6 @@
 # Initial Setup
 
-To repeat, this guide is a mockup of this process using a text editor. A polished, use-specific program is required to test its potential. Until then, we'll be using text files.
+To repeat, this guide is a mockup of this process using a text editor. A program does not exist with the features we'll discuss (as far as I'm aware).
 
 The goal: develop a user-friendly atlas, a personal repository, that maps out the characteristics and relationships of a system.
 
