@@ -8,7 +8,7 @@ You can download the text files I used for this here: [_case-studies/bitcoin-mul
 <img src="_utilities/case-study-bitcoin-multisig-1.jpg" alt="map" title="map" />
 </p>
 
-It gets even more convoluted when the attributes are turned on. But imagine trying to do this in your head or on a piece of notebook paper.
+It gets even more convoluted when the attributes are turned on; imagine trying to do this in your head or on a piece of notebook paper.
 <p align="center">
 <img src="_utilities/case-study-bitcoin-multisig-2.jpg" alt="map" title="map" />
 </p>
