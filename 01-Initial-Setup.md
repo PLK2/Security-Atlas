@@ -3,7 +3,7 @@
 To repeat, this guide is a mockup of this process using a text editor. A polished, use-specific program is required to test its potential. Until then, we'll be using text files.
 
 ## Objects
-A network is made up of objects that relate to one another; when shown visually, each object is a node on a knowledge graph. Objects can be anything you need them to be: sticky notes, safes, people, etc. 
+A network is made up of objects that relate to one another; when shown visually, each object is a node on a [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_graph). Objects can be anything you need them to be: sticky notes, safes, people, etc. 
 
 The first step in this tutorial is to start with a rough sketch or outline of the network you want to study.
 
