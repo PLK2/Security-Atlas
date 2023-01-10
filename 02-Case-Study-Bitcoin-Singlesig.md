@@ -13,7 +13,7 @@ For readibility, I colored some of the nodes to indicate the following:
 <img src="_utilities/case-study-bitcoin-singlesig-1.jpg" alt="map" title="map" />
 </p>
 
-The **Attributes** are hashtags that can be turned on and off. They reveal the underlying "threats" one may wish to analyze. In this case, the type, location, and make of an object. They appear as green nodes in the below image.
+The attributes in this case are organized by type, location, and make of an object. They appear as green nodes in the below image.
 <p align="center">
 <img src="_utilities/case-study-bitcoin-singlesig-2.jpg" alt="map" title="map" />
 </p>
