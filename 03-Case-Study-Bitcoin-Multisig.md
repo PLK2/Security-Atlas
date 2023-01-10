@@ -27,3 +27,5 @@ Some may find a security risk in a multisig setup if a quorum of devices come fr
 
 ---
 There is a balance between simplicity and threat avoidance: the nodes/connections/graphs are simplified if everything is in one location, you choose only one manufacturer, you have no backups to keep up with, etc., but by doing those things you put your whole system at risk. Too much simplicity can be at odds with security. By geographically separating objects, using multiple devices, and making multiple backups, you minimize catastrophic failure, but in the process you've created a spider web of relationships. A Security Atlas helps you assess and manage that spider web.
+
+I've taken this concept as far as I'm able to: as an architect and city planner, I don't have the coding skills to mock up a functioning program. If you like this idea, please consider contributing your skills.
