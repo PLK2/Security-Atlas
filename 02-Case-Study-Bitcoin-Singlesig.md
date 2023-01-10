@@ -29,3 +29,6 @@ Selecting an object reveals all upstream and downstream relationships. In this c
 <img src="_utilities/case-study-bitcoin-singlesig-4.jpg" alt="map" title="map" />
 </p>
 
+### Next Case Study
+Now let's dial up the complexity with a multisig wallet:
+[03 Bitcoin Multi-Sig Wallet](03-Case-Study-Bitcoin-Multisig.md)
