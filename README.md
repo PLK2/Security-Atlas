@@ -1,4 +1,4 @@
-# Threat Modeling with a Knowledge Graph
+# Security Atlas: Threat Modeling with a Knowledge Graph
 
 *You did it: you've set up your own home server and network! You've cobbled together multiple computers, drives (both physical and virtual), virtual machines, docker containers, subnets, and backups. Everything is working, but then you're hit with an unnerving feeling: Did I cover everything? Am I backing up everything properly? What are the vulnerabilities (an error, a hack)? **What are the implications if something--anything--goes wrong?** Where is my [*insert super personal dark secret here*] actually stored, who (or what programs) are required to access it, how safe is it from loss?*
 
