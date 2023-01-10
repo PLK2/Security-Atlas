@@ -37,7 +37,7 @@ Note that Bob owns himself--he is at the top of the graph hierarchy. Also note t
 
 
 ## Backups
-Each object may or may not have a backup copy. If it does, included it.
+Each object may or may not have a backup copy. If it does, include it.
 
 ```
 Sticky-Note-1.txt
