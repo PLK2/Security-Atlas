@@ -13,16 +13,17 @@ It gets even more convoluted when the attributes are turned on; imagine trying t
 <img src="_utilities/case-study-bitcoin-multisig-2.jpg" alt="map" title="map" />
 </p>
 
-In the image below, highlighting the "backups" attribute reveals that there are two separate backups for Seed-A, one backup for Seed-B, but no backups for Seed-C. This is where the program's warning lights would come on.
+In the image below, highlighting the `#backup` attribute reveals that there are two separate backups for `Seed-A`, one backup for `Seed-B`, but no backups for `Seed-C`. This is where the program's warning lights would come on.
 
-Further analysis could be done by comparing the attributes of Seed-A's two backups (are they stored in the same place? are they both susceptible to fire? etc.)
+Further analysis could be done by comparing the attributes of `Seed-A`'s two backups (e.g., Are they stored in the same place? Both susceptible to fire? etc.)
 <p align="center">
 <img src="_utilities/case-study-bitcoin-multisig-3.jpg" alt="map" title="map" />
 </p>
 
-Some may find a security risk in a multisig setup if a quorum of devices come from the same manufacturer. In the image below, we see that Device-A and Device-B are both "Coldcards".
+Some may find a security risk in a multisig setup if a quorum of devices come from the same manufacturer. In the image below, we see that `Device-A` and `Device-B` are both share the `#Coldcard` attribute.
 <p align="center">
 <img src="_utilities/case-study-bitcoin-multisig-4.jpg" alt="map" title="map" />
 </p>
 
-Going through this exercise will help you gain a much better understanding of the complete picture, of what happens behind the scenes (ie, out of reach of our limited brains). There is a balance between simplicity and threat avoidance: the nodes/connections/graph is simplified if everything is in one location, you choose only one manufacturer, you have no backups to keep up with, etc, but by doing those things you put your whole system at risk. By geographically separating objects, using multiple devices, making multiple backups, you minimize catastrophic failure, but in the process you've created a spider web of relationships. A knowledge graph helps you read and manage that web.
+---
+There is a balance between simplicity and threat avoidance: the nodes/connections/graphs are simplified if everything is in one location, you choose only one manufacturer, you have no backups to keep up with, etc., but by doing those things you put your whole system at risk. Too much simplicity can be at odds with security. By geographically separating objects, using multiple devices, and making multiple backups, you minimize catastrophic failure, but in the process you've created a spider web of relationships. A Security Atlas helps you assess and manage that spider web.
