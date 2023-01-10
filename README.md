@@ -12,9 +12,9 @@ There is: threat modeling using a knowledge graph, **a method for analyzing and 
 
 
 
-To get started, I've developed a mock-up of the process using [Obsidian](https://obsidian.md/), a program that allows you to build a personal knowledge base with text files. You don't have to use Obsidian--you could use any number of similar programs (Zettlr, Cosma, LogSeq, etc). 
+To get started, I've developed a mock-up of the process using [Obsidian](https://obsidian.md/), a program that allows you to build a personal knowledge base with text files. You don't have to use Obsidian--you could use any number of similar programs (Zettlr, Cosma, LogSeq, etc). I've included my sample files in this repository which you can download.
 
-Following is a non-technical introduction to the concept of threat modeling using a knowledge graph. Ultimately, this project needs someone with coding knowhow to bring the tool to life.
+This is a non-technical introduction to the concept of threat modeling using a knowledge graph. Ultimately, this project needs someone with coding knowhow to bring the tool to life.
 
 ### Read On
 - [01 Initial Setup](01-Initial-Setup.md)
@@ -23,7 +23,7 @@ Following is a non-technical introduction to the concept of threat modeling usin
 - 04 Personal Home Server and Network
 
 ---
-**Keywords to use for later, maybe:**
+Keywords to use for later, maybe:
 - simulator
 - prototype
 - atlas
