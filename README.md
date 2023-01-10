@@ -29,3 +29,7 @@ Following is a non-technical introduction to the concept of threat modeling usin
 - atlas
 - semantic network
 - frame network
+- butterfly effect
+- dominos
+- house of cards
+- web
