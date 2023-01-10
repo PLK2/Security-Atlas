@@ -1,6 +1,6 @@
 # Case Study: Bitcoin Key Management for a Single-Signature Wallet
 
-Below is a simple configuration for a bitcoin wallet requiring a single signature. Every node is an object (device, person, password, etc) in a chain of custody for the "Wallet-Single-Sig" (the utxo or treasure that is being protected). 
+Below is a simple configuration for a bitcoin wallet requiring a single signature. Every node is an object (device, person, password, etc) in a chain of custody culminating with the `Wallet-Single-Sig` (the utxo or treasure that is being protected). 
 
 You can download the text files I used for this here: [_case-studies/bitcoin-singlesig](_case-studies/bitcoin-singlesig).
 
