@@ -18,13 +18,13 @@ The **Attributes** are hashtags that can be turned on and off. They reveal the u
 <img src="_utilities/case-study-bitcoin-singlesig-2.jpg" alt="map" title="map" />
 </p>
 
-In this text editor, I can hover my mouse over a node (e.g., "home") and see highlights of every other node that would be affected if "home" were to undergo an attack: e.g., a flood, fire, or burglary. This "home" attribute would be inherited by every downstream object; e.g., the "Seed" object is also susceptible to any "home"-related threat because both of its upstream owners are susceptible. This makes the "Wallet-SingleSig" object susceptible as well; this would be highlighted with a "threat path".
+In this text editor, I can hover my mouse over a node (e.g., `home`) and see highlights of every other node that would be affected if `home` were to undergo an attack: e.g., a flood, fire, or burglary. This `home` attribute would be inherited by every downstream object; e.g., the `Seed` object is also susceptible to any `home`-related threat because both of its upstream owners are susceptible. This makes the `Wallet-SingleSig` object susceptible as well; this would be highlighted with a "threat path".
 <p align="center">
 <img src="_utilities/case-study-bitcoin-singlesig-3.jpg" alt="map" title="map" />
 </p>
 
 
-Selecting an object reveals all upstream and downstream relationships. In this case, the "Hardware Wallet" object requires both "Uncle Jim" as well as a "Hardware-Wallet-PIN" to access it, while the "Seed" relies on the "Hardware Wallet".
+Selecting an object reveals all upstream and downstream relationships. In this case, the `Hardware Wallet` object requires both `Uncle Jim` as well as a `Hardware-Wallet-PIN` to access it, while the `Seed` relies on the `Hardware Wallet`. If anything were to happen to `Uncle Jim` or the `Hardware-Wallet-PIN`, the `Seed` would be in jeopardy.
 <p align="center">
 <img src="_utilities/case-study-bitcoin-singlesig-4.jpg" alt="map" title="map" />
 </p>
