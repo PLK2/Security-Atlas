@@ -12,7 +12,7 @@ There is: a **SECURITY ATLAS**, threat modeling using a knowledge graph, **a met
 
 
 
-To get started, I've developed a mock-up of the process using [Obsidian](https://obsidian.md/), a text editor with a built-in knowledge graph. You don't have to use Obsidian--you could use any number of similar programs (Zettlr, Cosma, LogSeq, etc). I've included my sample files in this repository which you can download.
+To get started, I've developed a mock-up of the process using [Obsidian](https://obsidian.md/), a text editor with a built-in knowledge graph. You don't have to use Obsidian--you could use any number of similar programs (Zettlr, Cosma, LogSeq, etc). I've included my sample files in this repository which you can download: [_case-studies](_case-studies)
 
 This is a non-technical introduction to the concept of threat modeling using a knowledge graph. Ultimately, this project needs someone with coding knowhow to bring the tool to life.
 
