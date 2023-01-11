@@ -14,3 +14,5 @@ I assigned the following color key:
 - Orange: Program, Docker Container, etc.
 
 All relevant information for each object is stored in their respective text files: e.g., each physical drive has its make, model, storage amount, etc., listed. This makes it not only a great security assessment tool but also a general management tool.
+
+More info to come...
