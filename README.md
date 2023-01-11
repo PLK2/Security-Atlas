@@ -20,7 +20,7 @@ This is a non-technical introduction to the concept of threat modeling using a k
 - [01 Initial Setup](01-Initial-Setup.md)
 - [02 Bitcoin Single-Signature Wallet](02-Case-Study-Bitcoin-Singlesig.md)
 - [03 Bitcoin Multi-Sig Wallet](03-Case-Study-Bitcoin-Multisig.md)
-- 04 Personal Home Server and Network
+- [04 Personal Home Server and Network](04-Case-Study-Home-Server.md)
 
 ---
 Keywords to use for later, maybe:
