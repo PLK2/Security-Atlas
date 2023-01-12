@@ -15,4 +15,6 @@ I assigned the following color key:
 
 All relevant information for each object is stored in their respective text files: e.g., each physical drive has its make, model, storage amount, etc., listed. This makes it not only a great security assessment tool but also a general management tool.
 
+Another great thing about this tool is you can be as detailed or as general as you'd like with each of the components of the Atlas. For example, if I want to see all the dependencies that my `Photos` folder has, I can add that onto the graph without having to do the same for every other folder in my system. It's totally modular and can scale on an ad-hoc basis.
+
 More info to come...
