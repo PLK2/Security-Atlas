@@ -12,6 +12,7 @@ I assigned the following color key:
 - Dark Blue: Operating System, VM, Linux Container, etc.
 - Yellow: Backup
 - Orange: Program, Docker Container, etc.
+- Grey: Hardware device
 
 All relevant information for each object is stored in their respective text files: e.g., each physical drive has its make, model, storage amount, etc., listed. This makes it not only a great security assessment tool but also a general management tool.
 
